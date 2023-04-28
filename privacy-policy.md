@@ -1,8 +1,6 @@
-Sure, here's a privacy policy you can use as a starting point for your app:
-
 Privacy Policy for Crushbook
 
-At [Your Company Name], we are committed to protecting the privacy of our users. This Privacy Policy outlines the types of information we collect, how we use that information, and how we keep it safe.
+At Crushbook, we are committed to protecting the privacy of our users. This Privacy Policy outlines the types of information we collect, how we use that information, and how we keep it safe.
 
 Information We Collect
 
