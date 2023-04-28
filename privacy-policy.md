@@ -1,4 +1,4 @@
-Privacy Policy for Crushbook
+Crushbook Privacy Policy
 
 At Crushbook, we are committed to protecting the privacy of our users. This Privacy Policy outlines the types of information we collect, how we use that information, and how we keep it safe.
 
